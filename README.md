@@ -8,7 +8,7 @@
 </h1>
 
 
-[DATASET LINK](https://www.kaggle.com/datasets/uciml/mushroom-classification)
+[DATASET LINK](https://www.kaggle.com/datasets/uciml/mushroom-classification) | [NOTEBOOK LINK](https://colab.research.google.com/drive/10RRaHdKhPpzcs-UHQ_U8FHLF_9Kyu-RI?usp=sharing)
 # Mushroom-Classification 
 
 This repository contains a machine learning model trained to classify mushrooms as edible or poisonous based on certain features. The model is implemented using a decision tree algorithm.
