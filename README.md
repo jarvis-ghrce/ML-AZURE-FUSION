@@ -1,3 +1,14 @@
+<p align="center"><img src="https://avatars.githubusercontent.com/u/145497114?s=400&u=3670a413af29228bf1a235fdfce266381d210493&v=4" alt="Jarvis Logo" width="auto" height="200"></p>
+
+<h1 align="center" style="border-bottom: none">
+    <b>
+        <a href="https://github.com/jarvis-ghrce/ML-AZURE-FUSION/">ML AZURE FUSION</a><br>
+    </b>
+    ⭐️  An Event on ML Azure Organized by Jarvis GHRCE⭐️ <br>
+</h1>
+
+
+[DATASET LINK](https://www.kaggle.com/datasets/uciml/mushroom-classification)
 # Mushroom-Classification 
 
 This repository contains a machine learning model trained to classify mushrooms as edible or poisonous based on certain features. The model is implemented using a decision tree algorithm.
@@ -16,7 +27,7 @@ The dataset used for training and testing the model consists of samples of mushr
 
 The target variable is the classification of the mushroom as either **"edible"** or **"poisonous"**.
 
-Link: https://www.kaggle.com/datasets/uciml/mushroom-classification
+
 
 # Model
 
@@ -26,18 +37,10 @@ The decision tree algorithm was chosen for this classification task.
 # Usage
 To use this project, follow these steps:
 
-1. Run <code>pip install virtualenv </code>
-2. Create a python Virtual environment:
-<code>virtualenv envname</code>
-3. To activate the environment:<br>
-a: <code>cd envname</code><br>
-b: <code>Scripts\activate</code>
-4. Move back to Main directory:
-<code>cd ..</code>
-5. Install required libraries:
+1. Install required libraries:
 <code>pip install -r requirements.txt</code>
-6. Run the app:
-<code>python app.py</code>
+2. Run the app:
+<code>flask run</code>
 
 
 
