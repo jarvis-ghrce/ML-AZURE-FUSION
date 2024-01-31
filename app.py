@@ -4,55 +4,6 @@ import numpy as np
 
 app = Flask(__name__)
 
-
-@app.route("/jarvis", methods=["GET"])
-def jarvis():
-    return {"jarvis": "Hello, I am Jarvis"}
-
-
-# run in postman exmaple
-
-# REST API
-# POST - used to receive data
-# GET - used to send data back only
-# PUT - used to receive and send data back
-# DELETE - used to delete data
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 label_encodings = {
     "gill-size": {"b": 0, "n": 1},
     "gill-color": {
